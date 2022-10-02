@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ATMProgrami(Loop)/ATMProgrami(Loop).iml" filepath="$PROJECT_DIR$/ATMProgrami(Loop)/ATMProgrami(Loop).iml" />
+      <module fileurl="file://$PROJECT_DIR$/ATMProgrami(OOP)/ATMProgrami(OOP).iml" filepath="$PROJECT_DIR$/ATMProgrami(OOP)/ATMProgrami(OOP).iml" />
+      <module fileurl="file://$PROJECT_DIR$/BeybladeProgrami(OOP)/BeybladeProgrami(OOP).iml" filepath="$PROJECT_DIR$/BeybladeProgrami(OOP)/BeybladeProgrami(OOP).iml" />
+      <module fileurl="file://$PROJECT_DIR$/BilgisayarParcalariProgrami(OOP)/BilgisayarParcalariProgrami(OOP).iml" filepath="$PROJECT_DIR$/BilgisayarParcalariProgrami(OOP)/BilgisayarParcalariProgrami(OOP).iml" />
+      <module fileurl="file://$PROJECT_DIR$/CalisanlarProgrami(OOP)/CalisanlarProgrami(OOP).iml" filepath="$PROJECT_DIR$/CalisanlarProgrami(OOP)/CalisanlarProgrami(OOP).iml" />
+      <module fileurl="file://$PROJECT_DIR$/HafizaOyunuProgrami(Array)/HafizaOyunuProgrami(Array).iml" filepath="$PROJECT_DIR$/HafizaOyunuProgrami(Array)/HafizaOyunuProgrami(Array).iml" />
+      <module fileurl="file://$PROJECT_DIR$/HesapMakinesiProgrami(Gelismis)/HesapMakinesiProgrami(Gelismis).iml" filepath="$PROJECT_DIR$/HesapMakinesiProgrami(Gelismis)/HesapMakinesiProgrami(Gelismis).iml" />
+      <module fileurl="file://$PROJECT_DIR$/HesapMakinesiProgrami(Loop)/HesapMakinesiProgrami(Loop).iml" filepath="$PROJECT_DIR$/HesapMakinesiProgrami(Loop)/HesapMakinesiProgrami(Loop).iml" />
+      <module fileurl="file://$PROJECT_DIR$/IdmanProgrami(OOP)/IdmanProgrami(OOP).iml" filepath="$PROJECT_DIR$/IdmanProgrami(OOP)/IdmanProgrami(OOP).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_2022.iml" filepath="$PROJECT_DIR$/Java_2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KullaniciGirisiProgrami(Loop)/KullaniciGirisiProgrami(Loop).iml" filepath="$PROJECT_DIR$/KullaniciGirisiProgrami(Loop)/KullaniciGirisiProgrami(Loop).iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotHesaplamaProgrami(Loop)/NotHesaplamaProgrami(Loop).iml" filepath="$PROJECT_DIR$/NotHesaplamaProgrami(Loop)/NotHesaplamaProgrami(Loop).iml" />
+      <module fileurl="file://$PROJECT_DIR$/SayiHesaplamaProgramlari/SayiHesaplamaProgramlari.iml" filepath="$PROJECT_DIR$/SayiHesaplamaProgramlari/SayiHesaplamaProgramlari.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YurtDisiCikisProgrami(OOP)/YurtDisiCikisProgrami(OOP).iml" filepath="$PROJECT_DIR$/YurtDisiCikisProgrami(OOP)/YurtDisiCikisProgrami(OOP).iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_Array/java_Array.iml" filepath="$PROJECT_DIR$/java_Array/java_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_OOP/java_OOP.iml" filepath="$PROJECT_DIR$/java_OOP/java_OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_giris/java_giris.iml" filepath="$PROJECT_DIR$/java_giris/java_giris.iml" />
+    </modules>
+  </component>
+</project>
